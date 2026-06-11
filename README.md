@@ -12,3 +12,17 @@ SHAP explainability is used to visualize the backdoor's effect on model predicti
 
 ## Dataset
 The project uses the **NSL-KDD** dataset given by the professors.
+
+## Setup
+```bash
+pip install -r requirements.txt
+```
+
+Then run the notebooks in order:
+1) start.ipynb
+2) attack.ipynb
+3) defense.ipynb
+4) explainability.ipynb
+
+## Dependencies
+See `requirements.txt`.
