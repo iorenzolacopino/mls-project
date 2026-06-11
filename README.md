@@ -1,5 +1,6 @@
 # Backdoor Detection in ML-based Intrusion Detection Systems
 Course: Machine Learning Security; Master Degree in Cybersecurity
+
 University: Università degli Studi di Roma "La Sapienza"
 
 ## Project Overview
