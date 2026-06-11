@@ -1,0 +1,32 @@
+# dataset
+data/
+
+# generated files
+processed/
+poisoned/
+
+# trained models
+models/
+
+# jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.egg-info/
+
+# virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
