@@ -1,0 +1,40 @@
+{
+  "seed": 67,
+  "test_samples": 22544,
+  "models": {
+    "random_forest": {
+      "accuracy": 0.7794091554293825,
+      "precision_attack": 0.9665242165242165,
+      "recall_attack": 0.6344580378711135,
+      "f1_attack": 0.7660535353060168,
+      "false_positive_rate": 0.02903923385851097,
+      "confusion_matrix": [
+        [
+          9429,
+          282
+        ],
+        [
+          4691,
+          8142
+        ]
+      ]
+    },
+    "dnn": {
+      "accuracy": 0.7925390347764372,
+      "precision_attack": 0.9711182994454713,
+      "recall_attack": 0.655030000779241,
+      "f1_attack": 0.78235376239006,
+      "false_positive_rate": 0.025744001647616106,
+      "confusion_matrix": [
+        [
+          9461,
+          250
+        ],
+        [
+          4427,
+          8406
+        ]
+      ]
+    }
+  }
+}

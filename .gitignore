@@ -1,9 +1,8 @@
 # dataset
 data/
 
-# generated files
-processed/
-poisoned/
+# artifacts
+artifacts/
 
 # trained models
 models/
@@ -20,7 +19,7 @@ __pycache__/
 *.egg-info/
 
 # virtual environments
-mls/
+.venv/
 
 # macOS
 .DS_Store
